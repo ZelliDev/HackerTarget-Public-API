@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\GitHub\HackerTargetPublicApi\HackerTargetPublicAPI\bin\Debug\HackerTargetPublicAPI.dll
+C:\Users\PC\Documents\GitHub\HackerTargetPublicApi\HackerTargetPublicAPI\bin\Debug\HackerTargetPublicAPI.pdb
+C:\Users\PC\Documents\GitHub\HackerTargetPublicApi\HackerTargetPublicAPI\obj\Debug\HackerTargetPublicAPI.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\HackerTargetPublicApi\HackerTargetPublicAPI\obj\Debug\HackerTargetPublicAPI.dll
+C:\Users\PC\Documents\GitHub\HackerTargetPublicApi\HackerTargetPublicAPI\obj\Debug\HackerTargetPublicAPI.pdb
